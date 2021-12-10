@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherAPIDemo</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="weather">Weather</string>
+    <string name="search">Search</string>
+    <string name="emptyCityName">Enter city name</string>
+    <string name="incorrectCityName">Entered city does not exists</string>
+</resources>
